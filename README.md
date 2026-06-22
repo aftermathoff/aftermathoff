@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 👋
 
-Estou atualmente finalizando a faculdade de análise e desenvolvimento de sistemas, aprendendo a utilizar o github.
-Procuro colaborar com projetos simples de iniciantes a fim de ajudar os outros.
+- Estou atualmente finalizando a faculdade de análise e desenvolvimento de sistemas, aprendendo a utilizar o github.
+- Procuro colaborar com projetos simples de iniciantes a fim de ajudar os outros.
 
 #
 Estou realizando um projeto de AI-RPG utilizando:
@@ -12,6 +12,8 @@ Estou realizando um projeto de AI-RPG utilizando:
  - Google Gemini API
  - dotenv
  - HTML/JS
+
+ - 
 <!--
 **aftermathoff/aftermathoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
