@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 👋
 
-Estou atualmente finalizando a faculdade de análise e desenvolvimento de sistemas, aprendendo a utilizar o github e python. 
+Estou atualmente finalizando a faculdade de análise e desenvolvimento de sistemas, aprendendo a utilizar o github.
 Procuro colaborar com projetos simples de iniciantes a fim de ajudar os outros.
 
 #
