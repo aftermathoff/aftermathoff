@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 👋
 
-- Estou atualmente finalizando a faculdade de análise e desenvolvimento de sistemas, aprendendo a utilizar o github.
-- Procuro colaborar com projetos simples de iniciantes a fim de ajudar os outros.
+- Atualmente cursando o último semestre em análise e desenvolvimento de sistemasb.
+- Procuro colaborar com projetos simples e ajudar os outros.
 
 #
 Estou realizando um projeto de AI-RPG utilizando:
